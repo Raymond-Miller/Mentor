@@ -34,17 +34,6 @@ Standards:
         UID: 6f0f14df361e22044d0fdd2f132a46b8
         Path: /02-Keys to Success/02-Teaching Tips.md
   -
-    Title: Resources
-    Description: Resources
-    UID: ddcf50c29294d4414f3f7c1bbc892cb5
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Resource
-        UID: eface4ffcac7de8bbb14c3f22dd98fb1
-        Path: /03-Resources/01-Resource.md
-  -
     Title: Feedback
     Description: Feedback
     UID: bea4c2c8eb82d05891ddd71584881b56
