@@ -11,21 +11,21 @@
 
 ##### !question
 
-[markdown, your question]
+Pick a?
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* a
+* b
+* d
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* a
 
 ##### !end-answer
 
