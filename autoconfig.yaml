@@ -45,17 +45,6 @@ Standards:
         UID: 36115c9f693d78e96afe97a30ae25f10
         Path: /03-Odds and Ends/01-While Loops.md
   -
-    Title: ABC
-    Description: ABC
-    UID: 902fbdd2b1df0c4f70b4a5d23525e932
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 5800b170a2133f604702377761f97091
-        Path: /ABC/02-Arrays.md
-  -
     Title: EFG
     Description: EFG
     UID: d21fe3c083ccb347663c24f22d4ef4b7
@@ -66,14 +55,3 @@ Standards:
         Type: Lesson
         UID: 3519d2738de0dcf8c642b2a53ca98419
         Path: /EFG/03-Condit.md
-  -
-    Title: IJK
-    Description: IJK
-    UID: 0ff67dd2d18ca510684cd2566afca300
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: c344dade1c13319505f9d7eb28f5425f
-        Path: /IJK/04-Functi.md
