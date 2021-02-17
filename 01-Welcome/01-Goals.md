@@ -11,7 +11,7 @@ Potential students are trying to join the great programs we have here at Galvani
 
 * type: multiple-choice
 * id: 68165320-bcc3-4776-8fc2-0e104b2aefbb
-* title: [text, a short question title]
+* title: Objective of this Course
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
