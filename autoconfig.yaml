@@ -52,11 +52,3 @@ Standards:
         Type: Lesson
         UID: 1c7b37f2c3900ce6579c7f52ab5f4548
         Path: /Odds and Ends/03-SQL Sample.md
-      -
-        Type: Lesson
-        UID: 70e285d3b20799c4cd15577b1179c7a2
-        Path: /Odds and Ends/JS Test Project.md
-      -
-        Type: Lesson
-        UID: 7349bfcbabe9d4944814769c7efbc836
-        Path: /Odds and Ends/JavaScript Project.md
