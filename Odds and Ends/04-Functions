@@ -5,14 +5,14 @@
 
 * type: code-snippet
 * language: javascript
-* id: ab94bf59-854e-4f0d-863f-0d3ba1725c79
-* title: [text, a short question title]
+* id: 0fe74606-7ff5-4022-85f3-485bc081209f
+* title: Data Modeling
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Write code that models data over a book in a library.
 
 ##### !end-question
 

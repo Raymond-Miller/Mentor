@@ -4,38 +4,40 @@
 ### !challenge
 
 * type: code-snippet
-* language: sql
-* id: e3b67c46-d91b-4070-896a-30c102532a5e
-* title: [text, a short question title]
-* data_path: /[text, the path to the folder with the .sql file]
+* language: javascript
+* id: 0fe74606-7ff5-4022-85f3-485bc081209f
+* title: Making Arrays
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Write code that can input an array of 10 numbers and then output a string in the following format (111)111-1111.
 
 ##### !end-question
 
 ##### !placeholder
 
 [the code below is the starting code in the web editor]
-```sql
--- write a statement to select...
+```js
+// notes on what to return, etc
+function doSomething() {
+  // return true
+}
 ```
 
 ##### !end-placeholder
 
 ##### !tests
 
-[the code below is the sql statement that returns the correct answer]
-```sql
-SELECT these
-FROM that
-JOIN other
-WHERE this
-GROUP BY logic
-ORDER BY something
+[the mocha tests below will run against the student submission]
+```js
+describe('doSomething', function() {
+
+  it("does what it is supposed to do", function() {
+    expect(doSomething(), "Error message").to.deep.eq(true)
+  })
+})
 ```
 
 ##### !end-tests

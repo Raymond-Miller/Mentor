@@ -4,44 +4,42 @@
 ### !challenge
 
 * type: code-snippet
-* language: python3.6
-* id: 7cc716c5-1850-4692-85a3-b66bbd2ac075
-* title: [text, a short question title]
+* language: javascript
+* id: 0fe74606-7ff5-4022-85f3-485bc081209f
+* title: Conditionals
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-[markdown, your question]
+Write code that allows the user to input "yes" or "no".
+If the user inputs "yes" your program should output "true".
+If the user inputs "no" your program should output "false".
 
 ##### !end-question
 
 ##### !placeholder
 
 [the code below is the starting code in the web editor]
-```py
-def doSomething():
-  '''
-  INPUT: 2 dimensional numpy array
-  OUTPUT: boolean
-  Return true
-  '''
-#   return 1
+```js
+// notes on what to return, etc
+function doSomething() {
+  // return true
+}
 ```
 
 ##### !end-placeholder
 
 ##### !tests
 
-[the unit tests below will run against the student submission]
-```py
-import unittest
-import main as p
-import numpy as np
+[the mocha tests below will run against the student submission]
+```js
+describe('doSomething', function() {
 
-class TestPython1(unittest.TestCase):
-  def test_one(self):
-    self.assertEqual(1,p.doSomething())
+  it("does what it is supposed to do", function() {
+    expect(doSomething(), "Error message").to.deep.eq(true)
+  })
+})
 ```
 
 ##### !end-tests
