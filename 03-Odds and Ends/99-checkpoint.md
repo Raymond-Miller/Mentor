@@ -4,14 +4,14 @@
 ### !challenge
 
 * type: multiple-choice
-* id: 68165320-bcc3-4776-8fc2-0e104b2aefbb
-* title: Summary Question
+* id: 4909f811-0da5-4e02-bba7-7c6c16d1ffa0
+* title: How Much You Learned
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
 ##### !question
 
-How much have you learned?
+How much did you learn?
 
 ##### !end-question
 
