@@ -5,7 +5,7 @@
 
 * type: multiple-choice
 * id: 68165320-bcc3-4776-8fc2-0e104b2aefbb
-* title: [text, a short question title]
+* title: Summary Question
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 

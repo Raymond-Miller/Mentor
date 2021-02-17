@@ -48,3 +48,7 @@ Standards:
         Type: Lesson
         UID: 467f68280b291357b5ba825d1067f207
         Path: /03-Odds and Ends/03-Conditionals.md
+      -
+        Type: Checkpoint
+        UID: 981fb4bf26928f04ded212b7629b12e8
+        Path: /03-Odds and Ends/04-newtest.checkpoint.md
