@@ -33,26 +33,3 @@ Standards:
         Type: Lesson
         UID: 6f0f14df361e22044d0fdd2f132a46b8
         Path: /02-Keys to Success/02-Teaching Tips.md
-  -
-    Title: Odds And Ends
-    Description: Odds And Ends
-    UID: bfbbb82a48e19a5d21b74bf5c1b61727
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
-      -
-        Type: Lesson
-        UID: 34f6cbd92145a1a9f337e5881623f500
-        Path: /Odds and Ends/01-Python Sample.md
-      -
-        Type: Lesson
-        UID: 5104536c1c920075345ef0eeeaf42703
-        Path: /Odds and Ends/02-Java Sample.md
-      -
-        Type: Lesson
-        UID: 1c7b37f2c3900ce6579c7f52ab5f4548
-        Path: /Odds and Ends/03-SQL Sample.md
-      -
-        Type: Lesson
-        UID: 46db3c788f826dea6c545ffc298b9699
-        Path: /Odds and Ends/JS Sample.md
