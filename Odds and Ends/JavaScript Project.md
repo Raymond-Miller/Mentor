@@ -11,13 +11,13 @@
 
 ##### !question
 
-[markdown, your question]
+How do you implement a while loop?
 
 ##### !end-question
 
 ##### !placeholder
 
-[text, placeholder text for the input field]
+500 words
 
 ##### !end-placeholder
 

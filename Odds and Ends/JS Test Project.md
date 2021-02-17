@@ -13,13 +13,13 @@
 
 ##### !question
 
-[markdown, your question]
+How do you implement an if statement?
 
 ##### !end-question
 
 ##### !placeholder
 
-[text, placeholder text for the input field]
+500 words
 
 ##### !end-placeholder
 
