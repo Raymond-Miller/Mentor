@@ -9,3 +9,73 @@ Think back once more to your time in the classroom. When did you learn the most?
 ### Project Based Learning
 
 In the vein of allowing your mentee to learn through doing, make sure that your practice activities align with the material as much as possible. A few multiple choice or short answer type questions are ok, but they should not be the main focus. You show you know how to code by _actually coding_, not by answering questions _about_ coding. Use the resources found in the Odds and Ends section if you need more active style questions.
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: short-answer
+* id: 5e0bc23d-7719-4f18-8e7e-64648b4c24da
+* title: Assessing Learning
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which type of activity is the best way to assess a mentee's knowledge of a topic?
+
+##### !end-question
+
+##### !placeholder
+
+One word
+
+##### !end-placeholder
+
+##### !answer
+
+Project
+
+##### !end-answer
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
+
+<!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
+<!-- Replace everything in square brackets [] and remove brackets  -->
+
+### !challenge
+
+* type: paragraph
+* id: c0cb7a77-6f6b-4b00-8176-078d6b74d822
+* title: Learner Led Teaching
+<!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
+<!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
+
+##### !question
+
+Which is more effective for teaching, a step by step lecture or a coding assignment? Explain your answer below.
+
+##### !end-question
+
+##### !placeholder
+
+Around 200 words.
+
+##### !end-placeholder
+
+<!-- other optional sections -->
+<!-- !hint - !end-hint (markdown, hidden, students click to view) -->
+<!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
+<!-- !explanation - !end-explanation (markdown, students can see after answering correctly) -->
+
+### !end-challenge
+
+<!-- ======================= END CHALLENGE ======================= -->
