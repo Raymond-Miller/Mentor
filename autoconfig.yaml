@@ -33,3 +33,26 @@ Standards:
         Type: Lesson
         UID: 6f0f14df361e22044d0fdd2f132a46b8
         Path: /02-Keys to Success/02-Teaching Tips.md
+  -
+    Title: Odds And Ends
+    Description: Odds And Ends
+    UID: bfbbb82a48e19a5d21b74bf5c1b61727
+    SuccessCriteria:
+      - success criteria
+    ContentFiles:
+      -
+        Type: Lesson
+        UID: 36115c9f693d78e96afe97a30ae25f10
+        Path: /03-Odds and Ends/01-While Loops.md
+      -
+        Type: Lesson
+        UID: eb7a6e4d1896ac39f1040873aaec0bd8
+        Path: /03-Odds and Ends/02-Arrays.md
+      -
+        Type: Lesson
+        UID: 467f68280b291357b5ba825d1067f207
+        Path: /03-Odds and Ends/03-Conditionals.md
+      -
+        Type: Lesson
+        UID: 748cad6a51c22377b3f34ca999d1abba
+        Path: /03-Odds and Ends/04-Functions.md
