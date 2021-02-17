@@ -44,14 +44,7 @@ Standards:
         Type: Lesson
         UID: 36115c9f693d78e96afe97a30ae25f10
         Path: /03-Odds and Ends/01-While Loops.md
-  -
-    Title: EFG
-    Description: EFG
-    UID: d21fe3c083ccb347663c24f22d4ef4b7
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
       -
         Type: Lesson
-        UID: 3519d2738de0dcf8c642b2a53ca98419
-        Path: /EFG/03-Condit.md
+        UID: 467f68280b291357b5ba825d1067f207
+        Path: /03-Odds and Ends/03-Conditionals.md
