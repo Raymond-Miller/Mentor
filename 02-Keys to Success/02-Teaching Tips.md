@@ -35,7 +35,7 @@ One word
 
 ##### !answer
 
-Project
+/Project/i
 
 ##### !end-answer
 
