@@ -11,21 +11,21 @@
 
 ##### !question
 
-[markdown, your question]
+How much have you learned?
 
 ##### !end-question
 
 ##### !options
 
-* [Option 1]
-* [Option 2]
-* [Option 3, etc]
+* A lot
+* A little
+* Not enough
 
 ##### !end-options
 
 ##### !answer
 
-* [Option 2 (the correct answer)]
+* A lot
 
 ##### !end-answer
 
