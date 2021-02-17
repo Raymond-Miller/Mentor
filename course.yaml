@@ -1,4 +1,8 @@
 Course:
-  - Section: Intro
+  - Section: Self-Paced Content
     Repos:
-      - URL: https://github.com/Raymond-Miller/Mentor
+      - URL: https://github.com/gSchool/DNA-release-1.A
+  - Section: In-person content
+    Repos:
+      - URL: https://github.com/gSchool/DNA-release-1.A-sessions
+     

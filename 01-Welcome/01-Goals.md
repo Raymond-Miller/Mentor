@@ -35,6 +35,10 @@ What is the main objective of this course?
 
 ##### !end-answer
 
+##### !explanation
+Learners are assigned a mentor if they fail to pass the entrance exam on their first attempt. The hope is that after studying more, they will pass the second time.
+##### !end-explanation
+
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
