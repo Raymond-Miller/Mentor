@@ -39,6 +39,30 @@ One word
 
 ##### !end-answer
 
+##### !hint
+
+Student Led Activity
+
+##### !end-hint
+
+##### !hint
+
+Can be done individually or in groups.
+
+##### !end-hint
+
+##### !hint
+
+Starts with a P.
+
+##### !end-hint
+
+##### !explanation
+
+Projects allow a student to actively demonstrate their knowledge through applying what they have learned.
+
+##### !end-explanation
+
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
