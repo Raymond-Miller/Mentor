@@ -31,12 +31,6 @@ How much did you learn?
 
 ##### !end-answer
 
-##### !explantion
-
-This course is very informative.
-
-##### !end-explanation
-
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
