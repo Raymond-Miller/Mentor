@@ -6,6 +6,8 @@
 * type: multiple-choice
 * id: 4909f811-0da5-4e02-bba7-7c6c16d1ffa0
 * title: How Much You Learned
+* topics: knowledge
+
 <!-- * points: [1] (optional, the number of points for scoring as a checkpoint) -->
 <!-- * topics: [python, pandas] (optional the topics for analyzing points) -->
 
@@ -28,6 +30,12 @@ How much did you learn?
 * A lot
 
 ##### !end-answer
+
+##### !explantion
+
+This course is very informative.
+
+##### !end-explanation
 
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
