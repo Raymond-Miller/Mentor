@@ -47,11 +47,11 @@ Which of the following is important to set up at the beginning of your relations
 
 ##### !end-answer
 
-##### !explanation: Ice Breaker
+##### !explanation:Ice Breaker
 
 Getting to know your mentee is fine, but an ice breaker is not key for future success on assessments.
 
-##### !end-explanation: Ice Breaker
+##### !end-explanation:Ice Breaker
 
 ##### !explanation: Mentee Interests
 
