@@ -47,6 +47,42 @@ Which of the following is important to set up at the beginning of your relations
 
 ##### !end-answer
 
+##### !explanation: Ice Breaker
+
+Getting to know your mentee is fine, but an ice breaker is not key for future success on assessments.
+
+##### !end-explanation: Ice Breaker
+
+##### !explanation: Mentee Interests
+
+Outside of understanding a mentee's struggles to get into the program, you shouldn't be spending a lot of time on a mentee's outside interests.
+
+##### !end-explanation: Mentee Interests
+
+##### !explanation-not: Basic Expectations
+
+How will you and your mentee agree on the ground rules for your time together?
+
+##### !end-explanation-not: Basic Expectations
+
+##### !explanation-not: Availability Schedule
+
+How will your mentee know when it's ok to contact you?
+
+##### !end-explanation-not: Availability Schedule
+
+##### !explanation-not: Needs Assessment
+
+How will you determine what test knowledge your mentee needs the most help with?
+
+##### !end-explanation-not: Needs Assessment
+
+##### !explanation-incorrect
+
+Go back and reread the section!
+
+##### !end-explanation-incorrect
+
 <!-- other optional sections -->
 <!-- !hint - !end-hint (markdown, hidden, students click to view) -->
 <!-- !rubric - !end-rubric (markdown, instructors can see while scoring a checkpoint) -->
