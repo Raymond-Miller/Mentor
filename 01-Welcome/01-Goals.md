@@ -1,7 +1,18 @@
 # Welcome to Mentoring 101!
 
+## Course Objective
+
 The goal of this course is to help you become the best mentor you can be.
 Potential students are trying to join the great programs we have here at Galvanize, yet are struggling to get the knowledge necessary to pass our rigorous entrance exam. Who's better for them to turn to in their time of need than you, **someone who's experienced everything these classes have to offer?** It's up to you to help these would be coders achieve their dreams, and this course is your number one resource.
+
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Course Objective
+
+By the end of this course you will be able to apply teaching strategies when working with your mentee to help them pass the Galvanize entrance exam.
+
+### !end-callout
 
 
 <!-- >>>>>>>>>>>>>>>>>>>>>> BEGIN CHALLENGE >>>>>>>>>>>>>>>>>>>>>> -->
@@ -24,14 +35,14 @@ What is the main objective of this course?
 ##### !options
 
 * To help mentors become more sociable with their mentees and provide a welcoming atmosphere.
-* To give mentors the resources they need to help students pass their entrance exams.
+* To give mentors the knowledge and resources they need to help students pass their entrance exams.
 * To help mentors gain the knowledge necessary to become eventual instructors at Galvanize.
 
 ##### !end-options
 
 ##### !answer
 
-* To give mentors the resources they need to help students pass their entrance exams.
+* To give mentors the knowledge and resources they need to help students pass their entrance exams.
 
 ##### !end-answer
 
