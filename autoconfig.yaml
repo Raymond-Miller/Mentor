@@ -18,21 +18,14 @@ Standards:
         Type: Lesson
         UID: c2ce50a51b11b719eec76668b0902e2c
         Path: /01-Welcome/01-Goals.md
-  -
-    Title: Keys To Success
-    Description: Keys To Success
-    UID: b5ca2835b672325a288ce8ffbd7ff612
-    SuccessCriteria:
-      - success criteria
-    ContentFiles:
       -
         Type: Lesson
-        UID: c7e5ecac032c2b81a5f45d3fbbb7696f
-        Path: /02-Keys to Success/01-Setting Expectations.md
+        UID: 8c58d6d5ea6f2e733af385d9f4382be9
+        Path: /01-Welcome/01-Setting Expectations.md
       -
         Type: Lesson
-        UID: 6f0f14df361e22044d0fdd2f132a46b8
-        Path: /02-Keys to Success/02-Teaching Tips.md
+        UID: f6ff291e80c3a4eb16aa62f5a365035d
+        Path: /01-Welcome/02-Teaching Tips.md
   -
     Title: Odds And Ends
     Description: Odds And Ends
@@ -42,13 +35,13 @@ Standards:
     ContentFiles:
       -
         Type: Lesson
-        UID: 36115c9f693d78e96afe97a30ae25f10
-        Path: /03-Odds and Ends/01-While Loops.md
+        UID: e7ea2100d66ff3751614047627f4c99a
+        Path: /02-Odds and Ends/01-While Loops.md
       -
         Type: Lesson
-        UID: 467f68280b291357b5ba825d1067f207
-        Path: /03-Odds and Ends/03-Conditionals.md
+        UID: e0675955e681625edec68991053a9176
+        Path: /02-Odds and Ends/03-Conditionals.md
       -
         Type: Checkpoint
-        UID: d0f7cf808e44f7f03aafdb8e808a899f
-        Path: /03-Odds and Ends/99-checkpoint.md
+        UID: 641fb205df7d325ec345d44f9f04d441
+        Path: /02-Odds and Ends/99-checkpoint.md
