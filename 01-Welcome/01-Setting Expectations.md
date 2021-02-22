@@ -1,5 +1,14 @@
 # Setting Expectations
 
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Learning Objective
+
+By the end of this lesson, you will be able to create expectations and procedures that meet the needs of both you and your mentee.
+
+### !end-callout
+
 The most important thing you can do at the start of a new mentor/mentee relationship is set the expectations that you have for one another. This helps to ensure that each party is aware of the goals of your training time together, as well as the logistics of how, when, and where it will take place. Let's take a closer look at these ideas below.
 
 ### Needs Assessment

@@ -1,5 +1,14 @@
 # Teaching Tips
 
+<!-- available callout types: info, success, warning, danger, secondary  -->
+### !callout-info
+
+## Learning Objective
+
+By the end of this lesson you will be able to apply key teaching strategies to aid you when tutoring your mentee for the entry assessment.
+
+### !end-callout
+
 As a recent graduate of Galvanize, you have more than enough know-how to pass the entrance examination. The question is, _how_ do you go about imparting that knowledge to your mentee? Here as some tips from the education field to help you maximize your teaching effectiveness.
 
 ### The Guide on the Side, Not the Sage on the Stage
