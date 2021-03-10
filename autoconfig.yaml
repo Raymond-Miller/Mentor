@@ -45,3 +45,5 @@ Standards:
         Type: Checkpoint
         UID: 641fb205df7d325ec345d44f9f04d441
         Path: /02-Odds and Ends/99-checkpoint.md
+        TimeLimit: 1
+        MaxCheckpointSubmissions: 3
