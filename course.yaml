@@ -1,8 +1,21 @@
+---
 Course:
-  - Section: Self-Paced Content
+  - Section: Release 1
     Repos:
       - URL: https://github.com/gSchool/DNA-release-1.A
-  - Section: In-person content
+  - Section: Release 1.2
     Repos:
       - URL: https://github.com/gSchool/DNA-release-1.A-sessions
-     
+  - Section: Release 2
+    Repos:
+      - URL: https://github.com/gSchool/DNA-release-2
+  - Section: Release 2.2
+    Repos:
+      - URL: https://github.com/gSchool/DNA-release-2-sessions
+  - Section: Release 3
+    Repos:
+      - URL: https://github.com/gSchool/DNA-release-3
+      Course:
+  - Section: Release 4
+    Repos:
+      - URL: https://github.com/gSchool/DNA-release-4
